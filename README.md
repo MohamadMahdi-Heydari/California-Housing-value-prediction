@@ -171,7 +171,7 @@ Predicted Value = Actual Value
 
 The closer the points are to this line, the better the model predictions are.
 
-![Predicted vs Actual]([https://github.com/MohamadMahdi-Heydari/California-Housing-value-prediction/blob/main/Figure_1.png](https://github.com/MohamadMahdi-Heydari/California-Housing-value-prediction/blob/main/prediction.png))
+![Predicted vs Actual](https://github.com/MohamadMahdi-Heydari/California-Housing-value-prediction/blob/main/Figure_1.png](https://github.com/MohamadMahdi-Heydari/California-Housing-value-prediction/blob/main/prediction.png)
 
 
 ---
@@ -186,7 +186,7 @@ Values closer to:
 - `-1` indicate a strong negative relationship
 - `0` indicate little or no relationship
 
-![Correlation Heatmap]([images/correlation_heatmap.png](https://github.com/MohamadMahdi-Heydari/California-Housing-value-prediction/blob/main/Figure_1.png))
+![Correlation Heatmap](images/correlation_heatmap.png](https://github.com/MohamadMahdi-Heydari/California-Housing-value-prediction/blob/main/Figure_1.png)
 
 ---
 
