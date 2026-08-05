@@ -17,7 +17,7 @@ A Linear Regression model is used to learn the relationship between different ho
 
 The dataset used in this project is the California Housing dataset.
 
-Each row represents a district in California, and the model tries to predict the median house value of that district.
+Each row Represents a district in California, and the model tries to predict the median house value of that district.
 
 The dataset contains information such as:
 
